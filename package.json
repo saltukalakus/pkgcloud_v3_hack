@@ -1,49 +1,6 @@
 {
-  "_args": [
-    [
-      {
-        "name": "pkgcloud-1.3-hack",
-        "raw": "pkgcloud@~1.3.0",
-        "rawSpec": "~1.3.0",
-        "scope": null,
-        "spec": ">=1.3.0 <1.4.0",
-        "type": "range"
-      },
-      "/home/ralakus/git/portal/backend"
-    ]
-  ],
-  "_from": "pkgcloud@>=1.3.0 <1.4.0",
-  "_id": "pkgcloud@1.3.0",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/pkgcloud",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/pkgcloud-1.3.0.tgz_1458587309569_0.07942169276066124"
-  },
-  "_npmUser": {
-    "email": "ken.perkins@rackspace.com",
-    "name": "kperkins"
-  },
-  "_npmVersion": "1.4.29",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "pkgcloud",
-    "raw": "pkgcloud@~1.3.0",
-    "rawSpec": "~1.3.0",
-    "scope": null,
-    "spec": ">=1.3.0 <1.4.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/",
-    "/passport-keystone-v3"
-  ],
-  "_resolved": "https://registry.npmjs.org/pkgcloud/-/pkgcloud-1.3.0.tgz",
-  "_shasum": "d7e44892e5ddd24dcc6c10bee2bcefb7526a5ed6",
-  "_shrinkwrap": null,
-  "_spec": "pkgcloud@~1.3.0",
-  "_where": "/home/ralakus/git/portal/backend",
+  "name": "pkgcloud_v.1.3_hack",
+  "description": "An infrastructure-as-a-service agnostic cloud library for node.js",
   "author": {
     "email": "charlie.robbins@gmail.com",
     "name": "Charlie Robbins"
@@ -97,7 +54,6 @@
     "url-join": "0.0.x",
     "xml2js": "0.1.x"
   },
-  "description": "An infrastructure-as-a-service agnostic cloud library for node.js",
   "devDependencies": {
     "blanket": "1.1.9",
     "coveralls": "^2.11.2",
@@ -161,7 +117,6 @@
       "name": "kperkins"
     }
   ],
-  "name": "pkgcloud",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
