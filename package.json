@@ -2,7 +2,7 @@
   "_args": [
     [
       {
-        "name": "pkgcloud",
+        "name": "pkgcloud-1.3-hack",
         "raw": "pkgcloud@~1.3.0",
         "rawSpec": "~1.3.0",
         "scope": null,
